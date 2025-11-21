@@ -1,4 +1,4 @@
-## rne-demo-app
+## ReactNative with ReactNative Elements (UI Components)
 
 Starter Expo app using React Native Elements (RNE)
 
@@ -41,4 +41,18 @@ Open `http://localhost:19006` in your browser (Expo will also print a QR code an
 - Dependency versions: The starter uses React 17 and Expo SDK 47; Expo may show warnings suggesting newer versions (React 18, RN 0.70, etc.). Upgrading to the suggested versions is recommended for long-term maintenance but may require code adjustments.
 - If `npm install` fails with peer dependency errors when adding new packages, try `--legacy-peer-deps` or install versions compatible with React 17 / Expo SDK 47.
 - `.expo/` should remain ignored. `.expo-shared/` is safe and recommended to commit (it stores shared project metadata like `assets.json`).
+
+
+**Helpful links**
+- React Native Elements (RNE) docs: https://reactnativeelements.com/
+- RNE Theming guide: https://reactnativeelements.com/docs/theme
+- Expo docs: https://docs.expo.dev/
+- Expo CLI & managed workflow: https://docs.expo.dev/workflow/expo-cli/
+- React Navigation (v6) docs: https://reactnavigation.org/docs/getting-started
+- React Native docs: https://reactnative.dev/docs/getting-started
+- Expo Web & deployment: https://docs.expo.dev/workflow/web/
+- Expo Router (file-based routing, optional): https://expo.github.io/router/docs
+- Troubleshooting OpenSSL/Webpack errors: https://nodejs.org/en/blog/release/v17.0.0/#openssl-30
+- Metro bundler doc: https://facebook.github.io/metro/docs/
+
 
