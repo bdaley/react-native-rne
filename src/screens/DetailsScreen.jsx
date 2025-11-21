@@ -7,9 +7,7 @@ export default function DetailsScreen({ navigation }) {
   return (
     <View style={styles.container}>
       <Text h3>Details Edited</Text>
-    <Input
-      placeholder='BASIC INPUT'
-    />
+        <Input placeholder='Type here...'/>
       <Button type="clear" onPress={() => navigation.goBack()}>Back</Button>
     </View>
   );
